@@ -5,6 +5,6 @@
 2. [Projeto de Integração](https://github.com/RickRaMarques/Projeto-Integrado-CC1MA)
 
 ## Estatísticas:
-[![RickRaMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=RickRaMarques&theme=dark)](https://github.com/RickRaMarques/github-readme-stats)
+[![RickRaMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=RickRaMarques&theme=highcontrast)](https://github.com/RickRaMarques/github-readme-stats)
 
 
