@@ -2,6 +2,6 @@
 
 ## Projetos:
 
-[![RickRaMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![RickRaMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=RickRaMarques)](https://github.com/RickRaMarques/github-readme-stats)
 
 
