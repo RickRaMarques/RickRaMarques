@@ -1,5 +1,5 @@
 
-# -Ricardo Ramilho Marques
+# -Ricardo Ramalho Marques
 
 ## Projetos:
 1. [Pset](https://github.com/RickRaMarques/uvv_bd1_cc1ma)
